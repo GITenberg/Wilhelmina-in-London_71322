@@ -1,0 +1,33 @@
+_repo: Wilhelmina-in-London_71322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pain, Barry
+    alias: Pain, Barry Eric Odell
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '26030'
+    url: http://www.gutenberg.org/2009/agents/26030
+    wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
+description: ''
+gutenberg_issued: '2023-08-02'
+identifiers:
+  gutenberg: '71322'
+language: en
+pgterms:marc905: 20230721120547pain
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aUnited Kingdom :$bJohn Long, Limited, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Wilhelmina in London
+url: http://www.gutenberg.org/ebooks/71322
