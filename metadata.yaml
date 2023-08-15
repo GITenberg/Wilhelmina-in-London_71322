@@ -1,5 +1,8 @@
 _repo: Wilhelmina-in-London_71322
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71322-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Pain, Barry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26030
     wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71322#Wilhelmina-in-London
 gutenberg_issued: '2023-08-02'
 identifiers:
   gutenberg: '71322'
